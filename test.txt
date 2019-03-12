@@ -1,2 +1,4 @@
 deleerhai test
-funck
+func
+hello world
+
